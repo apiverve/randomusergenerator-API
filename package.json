@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/randomusergenerator",
+  "version": "1.0.0",
+  "description": "Random User Generator is a simple tool for generating random user data. It returns the user's name, email, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/randomusergenerator-API.git"
+  },
+  "keywords": [
+    "random user generator"," random user data"," random user generator api"," random user data api"," random user generator tool"," random user data tool"," random user generator software"," random user data software"," random user generator service"," random user data service"," random user generator library"," random user data library"," random user generator sdk"," random user data sdk"," random user generator code"," random user data code"," random user generator script"," random user data script"," random user generator program"," random user data program"," random user generator application"," random user data application"," random user generator app"," random user data app"," random user generator utility"," random user data utility"," random user generator helper"," random user data helper"," random user generator helper tool"," random user data helper tool"," random user generator helper software"," random user data helper software"," random user generator helper service"," random user data helper service"," random user generator helper library"," random user data helper library"," random user generator helper sdk"," random user data helper sdk"," random user generator helper code"," random user data helper code"," random user generator helper script"," random user data helper script"," random user generator helper program"," random user data helper program"," random user generator helper application"," random user data helper application"," random user generator helper app"," random user data helper app"," random user generator helper tool"," random user data helper tool"," random user generator helper utility"," random user data helper utility"," random user generator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/randomusergenerator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/randomusergenerator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
